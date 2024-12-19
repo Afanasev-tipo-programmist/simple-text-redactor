@@ -1,0 +1,10 @@
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\bin\Debug\Простой текстовый редактор.exe.config
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\bin\Debug\Простой текстовый редактор.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\bin\Debug\Простой текстовый редактор.pdb
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой текстовый редактор.csproj.AssemblyReference.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой_текстовый_редактор.WinFormsApp_SimpleTextEditor.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой_текстовый_редактор.Properties.Resources.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой текстовый редактор.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой текстовый редактор.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Простой текстовый редактор\obj\Debug\Простой текстовый редактор.pdb
